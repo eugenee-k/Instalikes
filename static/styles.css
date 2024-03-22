@@ -1,0 +1,91 @@
+
+form .form-control {
+    max-width: 250px;
+}
+
+#sync {
+    width: 130px;
+}
+
+#n_likes {
+    display: inline-block;
+    margin-top: 25px;
+}
+
+#image-container1, image-container2 {
+    display: inline-block;
+    max-width: 1000px;
+}
+
+#image-container1 div, #image-container2 div {
+    display: inline-block;
+    max-width: 650px;
+    margin: 4px;
+}
+
+.wrapper {
+    display: inline-block !important;
+    max-width: 570px !important;
+    float: left;
+}
+
+#image-container1 div img, #image-container2 div img {
+    display: inline-block;
+    width: 55px;
+    float: right;
+}
+
+.mycomment {
+    display: inline-block;
+    margin: 4px;
+    margin-left: 30px;
+}
+
+#image-container1 img, #image-container2 img {
+    display: inline-block;
+    width: 110px;
+}
+
+#message {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: red;
+}
+
+.hidden1 {
+    display: none;
+}
+
+.tab-content {
+    margin-bottom: 100px;
+}
+
+.comments {
+    display: inline-block;
+    max-width: 290px;
+    height: 580px;
+    padding-right: 20px;
+    font-size: 12px;
+    overflow-y: scroll;
+}
+
+.details-comment {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.reply {
+    margin-left: 40px;
+}
+
+.hidden {
+    display: none;
+}
+
+#carouselExampleIndicators {
+    display: inline-block;
+    max-width: 580px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    float: left;
+}

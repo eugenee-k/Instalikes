@@ -1,0 +1,9 @@
+Flask==3.0.1
+Flask-Bcrypt==1.0.1
+Flask-Bootstrap==3.3.7.1
+Flask-Login==0.6.3
+Flask-WTF==1.2.1
+WTForms==3.1.2
+selenium==4.17.2
+PyMySQL==1.0.2
+requests==2.31.0
